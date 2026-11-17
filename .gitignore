@@ -1,0 +1,5 @@
+# Arquivos locais e checkout anterior de hospedagem.
+/portfolio/
+node_modules/
+.DS_Store
+*.log
